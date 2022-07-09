@@ -1,0 +1,40 @@
+/* add your css styles here! */
+h1 {
+    text-decoration: underline;
+    padding: 45px;
+    font-size: 45pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    padding-left: 400px;
+    font-size: 35pt;
+    text-decoration: bold;
+}
+
+.fish {
+    padding-left: 330px;
+    font-size: larger;
+    padding-bottom: 42px;
+}
+
+.halibut {
+    border-color: aqua;
+    border-width: 10px;
+    background-color: aquamarine;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    padding: 45px;
+    border-style: solid;
+    border-color: #2E53B4;
+    border-width: 5px;
+}
+
+h6 {
+    font-size: 25pt;
+    padding-left: 15pt;
+    padding-bottom: 25px;
+}
